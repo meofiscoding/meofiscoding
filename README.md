@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/tranthe150186" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fhackerrank&psig=AOvVaw19r5iKBXsueiu1XIVbpd9S&ust=1643633854517000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCGo7LD2fUCFQAAAAAdAAAAABAO" alt="tranthe150186" height="30" width="40" style="color: green" /></a>
+<a href="https://www.hackerrank.com/tranthe150186" target="blank"><img align="center" src="https://raw.githubusercontent.com/meof-coding/meof-coding/main/image%201.svg" alt="tranthe150186" height="30" width="40" style="color: green" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
