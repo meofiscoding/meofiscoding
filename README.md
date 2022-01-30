@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Thanh Tra</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt = "Coding" width = "400 "src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumbral.com%2Ftag%2Fguy%2520buns&psig=AOvVaw3lSJ7-3wwoXNY4xBAkDd8Q&ust=1643616492121000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi63eWC2fUCFQAAAAAdAAAAABAE"/>
 <p align="left"> <img src="https://i.pinimg.com/originals/8e/52/6e/8e526ee41f733ed1098242efefaa6d11.gif" alt="meof-coding" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meof-coding" alt="meof-coding" /></a> </p>
