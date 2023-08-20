@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" width="400" src="https://i.pinimg.com/originals/8e/52/6e/8e526ee41f733ed1098242efefaa6d11.gif" alt="Coding" /> 
 
-- 🔭 I’m currently working on [ASP.Net/C#](https://github.com/meofiscoding/QuizletClone---ASP.Net-Core)
+<!-- - 🔭 I’m currently working on [ASP.Net/C#](https://github.com/meofiscoding/QuizletClone---ASP.Net-Core)
 
-- 📫 How to reach me **tranthe150186@fpt.edu.vn**
+- 📫 How to reach me **tranthe150186@fpt.edu.vn** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
