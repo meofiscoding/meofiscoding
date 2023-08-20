@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/MasterHead.gif" alt="MasterHead" style="width: 1000px; height: 500px">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Asset/MasterHead.gif" alt="MasterHead" style="width: 1000px; height: 500px">
 </div>
 
 <h1 align="center">Hi 👋, I'm Thanh Tra</h1>
@@ -16,15 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/tranthe150186" target="blank"><img align="center" src="https://raw.githubusercontent.com/meofiscoding/meofiscoding/main/image%201.svg" alt="tranthe150186" height="30" width="40" style="color: green" /></a>
+<a href="https://www.hackerrank.com/tranthe150186" target="blank"><img align="center" src="https://github.com/meofiscoding/meofiscoding/blob/main/Asset/image%201.svg" alt="tranthe150186" height="30" width="40" style="color: green" /></a>
 </p>
 
 <h3 align="left">Certificate:</h3>
 <a href="https://www.hackerrank.com/certificates/iframe/4d46d90460e6">
-  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/RestAPICertificate.png" alt="HackerRank Certificate" width="400" height="300">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/RestAPICertificate.png" alt="HackerRank Certificate" width="400" height="300">
 </a>
 <a href="https://www.hackerrank.com/certificates/bbb3deed8bdd">
-  <img src="" alt="HackerRank Certificate" width="400" height="300">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/C%23Certificate.png" alt="HackerRank Certificate" width="400" height="300">
 </a>
 
 
