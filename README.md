@@ -17,9 +17,12 @@
 <h3 align="left">Certificate:</h3>
 <div style="display: flex">
 <a href="https://www.hackerrank.com/certificates/iframe/4d46d90460e6">
-  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/RestAPICertificate.png" alt="HackerRank Certificate" width="250" height="200">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/RestAPICertificate.png" alt="HackerRank Certificate" height="200">
 </a>
 <a href="https://www.hackerrank.com/certificates/bbb3deed8bdd">
-  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/C%23Certificate.png" alt="HackerRank Certificate" width="250" height="200">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/C%23Certificate.png" alt="HackerRank Certificate" height="200">
+</a>
+  <a href="https://www.hackerrank.com/certificates/3bb4b1bc28bc">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/CSSCertificate.png" alt="HackerRank Certificate" height="200">
 </a>
 </div>
