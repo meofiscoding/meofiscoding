@@ -25,4 +25,8 @@
   <a href="https://www.hackerrank.com/certificates/3bb4b1bc28bc">
   <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/CSSCertificate.png" alt="HackerRank Certificate" height="200">
 </a>
+</a>
+  <a href="https://www.hackerrank.com/certificates/95639f6bb78d">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/SQL(Basic).png" alt="HackerRank Certificate" height="200">
+</a>
 </div>
