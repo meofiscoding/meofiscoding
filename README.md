@@ -22,6 +22,14 @@
   <a href="https://www.hackerrank.com/certificates/95639f6bb78d">
   <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/SQL(Basic).png" alt="HackerRank Certificate" height="200">
 </a>
+</a>
+  <a href="https://www.hackerrank.com/certificates/73838a48dc77">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/SQL(Intermediate).png" alt="HackerRank Certificate" height="200">
+</a>
+</a>
+  <a href="https://www.hackerrank.com/certificates/cacbd9890003">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/SQL(Advanced).png" alt="HackerRank Certificate" height="200">
+</a>
 </div>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
