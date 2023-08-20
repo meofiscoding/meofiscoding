@@ -23,6 +23,11 @@
 <a href="https://www.hackerrank.com/certificates/iframe/4d46d90460e6">
   <img src="https://github.com/meofiscoding/meofiscoding/blob/main/RestAPICertificate.png" alt="HackerRank Certificate" width="400" height="300">
 </a>
+<a href="https://www.hackerrank.com/certificates/bbb3deed8bdd">
+  <img src="" alt="HackerRank Certificate" width="400" height="300">
+</a>
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meofiscoding&show_icons=true&locale=en&layout=compact" alt="meofiscoding" /></p>
