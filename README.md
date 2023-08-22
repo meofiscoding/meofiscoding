@@ -30,6 +30,10 @@
   <a href="https://www.hackerrank.com/certificates/cacbd9890003">
   <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/SQL(Advanced).png" alt="HackerRank Certificate" height="200">
 </a>
+</a>
+  <a href="https://www.hackerrank.com/certificates/49440b2db70e">
+  <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/Javascript(Basic).png" alt="HackerRank Certificate" height="200">
+</a>
 </div>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
