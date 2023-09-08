@@ -34,10 +34,10 @@
   <a href="https://www.hackerrank.com/certificates/49440b2db70e">
   <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/Javascript(Basic).png" alt="HackerRank Certificate" height="200">
 </a>
-</a>
+<!-- </a>
   <a href="https://www.w3docs.com/quiz/certificate/45/80/1693839981/nguyen%20thanh%20tra/8ceeddfeac9ba840ad003f09447d81bf?version=1">
   <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Certificate/GitBasic.png" alt="Github Certificate" height="200">
-</a>
+</a> -->
 </div>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
