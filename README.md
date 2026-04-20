@@ -2,7 +2,7 @@
   <img src="https://github.com/meofiscoding/meofiscoding/blob/main/Asset/MasterHead.gif" alt="MasterHead" style="width: 1000px; height: 500px">
 </div>
 
-<h1 align="center">Hi 👋, I'm Thanh Tra</h1>
+<h1 align="center">Hi 👋, I'm Jane</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meofiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="meof-coding" /> </p>
